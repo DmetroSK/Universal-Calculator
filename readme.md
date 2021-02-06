@@ -6,7 +6,7 @@
 <a href="https://github.com/DmetroSK/Universal-Calculator/pulls"><img src="https://img.shields.io/github/issues-pr/DmetroSK/Universal-Calculator" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/DmetroSK/Universal-Calculator/issues"><img src="https://img.shields.io/github/issues/DmetroSK/Universal-Calculator" alt="Issues Badge"/></a>
 <a href="https://github.com/DmetroSK/Universal-Calculator/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/DmetroSK/Universal-Calculator?color=2b9348"></a>
-<a href="https://github.com/DmetroSK/Universal-Calculator/blob/master/LICENSE"><img src="https://img.shields.io/github/license/DmetroSK/Universal-Calculator?color=2b9348" alt="License Badge"/></a>
+
 </div>
 <br>
 
