@@ -1,12 +1,12 @@
 <h1 align="center">Universal Calculator</h1>
 <p align="center"><i>Solving mathematical problems.</i></p>
 <div align="center">
-  <a href="https://github.com/DmetroSK/Calculator/stargazers"><img src="https://img.shields.io/github/stars/DmetroSK/Calculator" alt="Stars Badge"/></a>
-<a href="https://github.com/DmetroSK/Calculator/network/members"><img src="https://img.shields.io/github/forks/DmetroSK/Calculator" alt="Forks Badge"/></a>
-<a href="https://github.com/DmetroSK/Calculator/pulls"><img src="https://img.shields.io/github/issues-pr/DmetroSK/Calculator" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/DmetroSK/Calculator/issues"><img src="https://img.shields.io/github/issues/DmetroSK/Calculator" alt="Issues Badge"/></a>
-<a href="https://github.com/DmetroSK/Calculator/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/DmetroSK/Calculator?color=2b9348"></a>
-<a href="https://github.com/DmetroSK/Calculator/blob/master/LICENSE"><img src="https://img.shields.io/github/license/DmetroSK/Calculator?color=2b9348" alt="License Badge"/></a>
+  <a href="https://github.com/DmetroSK/Universal-Calculator/stargazers"><img src="https://img.shields.io/github/stars/DmetroSK/Universal-Calculator" alt="Stars Badge"/></a>
+<a href="https://github.com/DmetroSK/Universal-Calculator/network/members"><img src="https://img.shields.io/github/forks/DmetroSK/Universal-Calculator" alt="Forks Badge"/></a>
+<a href="https://github.com/DmetroSK/Universal-Calculator/pulls"><img src="https://img.shields.io/github/issues-pr/DmetroSK/Universal-Calculator" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/DmetroSK/Universal-Calculator/issues"><img src="https://img.shields.io/github/issues/DmetroSK/Universal-Calculator" alt="Issues Badge"/></a>
+<a href="https://github.com/DmetroSK/Universal-Calculator/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/DmetroSK/Universal-Calculator?color=2b9348"></a>
+<a href="https://github.com/DmetroSK/Calculator/blob/master/LICENSE"><img src="https://img.shields.io/github/license/DmetroSK/Universal-Calculator?color=2b9348" alt="License Badge"/></a>
 </div>
 <br>
 
@@ -160,7 +160,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Email - info@pramuditha-malhara.com
 
-Project Link - [https://github.com/DmetroSK/Calculator](https://github.com/DmetroSK/Calculator)
+Project Link - [https://github.com/DmetroSK/Calculator](https://github.com/DmetroSK/Universal-Calculator)
 
 <br>
 
