@@ -30,6 +30,7 @@
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#support">Support</a></li>
+    <li><a href="#map">Map</a></li>
      </ol>
 </details>
 
@@ -169,3 +170,10 @@ Project Link - [https://github.com/DmetroSK/Calculator](https://github.com/Dmetr
 <br>
 
 Give a ⭐️ if this project helped you!
+
+## Map
+
+<br>
+
+![](map.png)
+
