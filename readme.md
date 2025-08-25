@@ -49,7 +49,7 @@ The components of the above components are as follows
 
     - Addition
     - Subtraction
-    -     Multiplication
+    - Multiplication
     - Division
 
 2.  Scientific calculator
